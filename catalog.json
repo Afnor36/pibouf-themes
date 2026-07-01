@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "id": "fancytest",
-    "name": "FancyTest",
+    "name": "Fancy",
     "author": "PiBouf",
     "version": "1.0.0",
     "category": "Test",
-    "description": "Thème de test pour le marketplace PiBouf.",
+    "description": "Th�me de test pour le marketplace PiBouf.",
     "thumbnail": "previews/FancyTest.png",
     "package": "official/FancyTest.pibouf",
     "featured": true
