@@ -1,12 +1,40 @@
 {
-  "format": 1,
-  "name": "Fancy",
+  "formatVersion": 1,
+  "id": "peaky_blinders",
+  "name": "Peaky Blinders",
   "author": "PiBouf",
-  "version": "1.0",
-  "description": "Thème élégant et neutre",
-  "xml": "fancy.xml",
-  "thumbnail": "previews/fancy_4_landscape.png",
-  "protected": false,
-  "minVersion": "2.0",
-  "createdWith": "PiBouf Theme Studio 1.0"
+  "version": "1.0.0",
+  "category": "Anniversaire",
+  "description": "Thème sombre et élégant inspiré de l'univers Peaky Blinders.",
+  "cover": "cover.png",
+  "templates": [
+    {
+      "id": "1_landscape",
+      "label": "1 photo paysage",
+      "file": "templates/1_landscape.xml",
+      "preview": "previews/1_landscape.png",
+      "photos": 1,
+      "orientation": "landscape"
+    },
+    {
+      "id": "4_landscape",
+      "label": "4 photos paysage",
+      "file": "templates/4_landscape.xml",
+      "preview": "previews/4_landscape.png",
+      "photos": 4,
+      "orientation": "landscape"
+    }
+  ],
+  "variables": [
+    {
+      "id": "header1",
+      "label": "Header 1",
+      "type": "text"
+    },
+    {
+      "id": "header2",
+      "label": "Header 2",
+      "type": "text"
+    }
+  ]
 }
