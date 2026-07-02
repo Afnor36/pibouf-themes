@@ -1,13 +1,24 @@
-[
-  {
-    "id": "fancytest",
-    "name": "Fancy",
-    "author": "PiBouf",
-    "version": "1.0.0",
-    "category": "Test",
-    "description": "Th�me de test pour le marketplace PiBouf.",
-    "thumbnail": "previews/FancyTest.png",
-    "package": "official/FancyTest.pibouf",
-    "featured": true
-  }
-]
+﻿{
+  "themes": [
+    {
+      "id": "fancy",
+      "name": "Fancy",
+      "author": "PiBouf",
+      "version": "1.0.0",
+      "category": "Classic",
+      "description": "Thème élégant et lumineux pour PiBouf.",
+      "thumbnail": "fancy/cover.png",
+      "package": "fancy/fancy.pibouf"
+    },
+    {
+      "id": "peaky_blinders",
+      "name": "Peaky Blinders",
+      "author": "Christophe DAL MASO",
+      "version": "1.0.0",
+      "category": "Birthday",
+      "description": "Thème sombre et élégant inspiré de l'univers Peaky Blinders.",
+      "thumbnail": "peaky_blinders/cover.png",
+      "package": "peaky_blinders/peaky_blinders.pibouf"
+    }
+  ]
+}
