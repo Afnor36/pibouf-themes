@@ -1,0 +1,15 @@
+{
+  "id": "fancy",
+  "name": "Fancy",
+  "author": "Christophe DAL MASO",
+  "version": "1.0.0",
+  "category": "Anniversaire",
+  "description": "Thème élégant et coloré pour photobooth.",
+  "cover": "cover.png",
+  "package": "theme.pibouf",
+  "modifiable": true,
+  "variants": [
+    "1_landscape",
+    "4_landscape"
+  ]
+}
