@@ -8,7 +8,7 @@
       "category": "Classic",
       "description": "Thème élégant et lumineux pour PiBouf.",
       "thumbnail": "fancy/cover.png",
-      "package": "fancy/fancy.pibouf"
+      "package": "fancy/theme.pibouf"
     },
     {
       "id": "peaky_blinders",
@@ -18,7 +18,7 @@
       "category": "Birthday",
       "description": "Thème sombre et élégant inspiré de l'univers Peaky Blinders.",
       "thumbnail": "peaky_blinders/cover.png",
-      "package": "peaky_blinders/peaky_blinders.pibouf"
+      "package": "peaky_blinders/theme.pibouf"
     }
   ]
 }
