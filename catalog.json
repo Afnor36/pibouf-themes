@@ -1,4 +1,4 @@
-﻿{
+{
   "themes": [
     {
       "id": "fancy",
@@ -19,6 +19,46 @@
       "description": "Thème sombre et élégant inspiré de l'univers Peaky Blinders.",
       "thumbnail": "peaky_blinders/cover.png",
       "package": "peaky_blinders/theme.pibouf"
+    },
+    {
+      "id": "anniversaire_antonin",
+      "name": "Anniversaire Antonin",
+      "author": "Christophe DAL MASO",
+      "version": "1.0.0",
+      "category": "Personnalisé",
+      "description": "Thème personnalisé créé pour l’événement Anniversaire Antonin.",
+      "thumbnail": "anniversaire_antonin/cover.png",
+      "package": "anniversaire_antonin/theme.pibouf",
+      "customizable": false,
+      "featured": false,
+      "isNew": true,
+      "tags": [
+        "anniversaire",
+        "personnalisé",
+        "étoiles",
+        "Antonin"
+      ]
+    },
+    {
+      "id": "anniversaire_charles_ines",
+      "name": "Anniversaire Charles et Inès",
+      "author": "Christophe DAL MASO",
+      "version": "1.0.0",
+      "category": "Personnalisé",
+      "description": "Thème personnalisé western créé pour l’événement Anniversaire Charles et Inès.",
+      "thumbnail": "anniversaire_charles_ines/cover.png",
+      "package": "anniversaire_charles_ines/theme.pibouf",
+      "customizable": false,
+      "featured": false,
+      "isNew": true,
+      "tags": [
+        "anniversaire",
+        "personnalisé",
+        "western",
+        "wanted",
+        "Charles",
+        "Inès"
+      ]
     }
   ]
 }
