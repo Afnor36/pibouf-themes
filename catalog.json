@@ -1,4 +1,4 @@
-{
+﻿{
   "themes": [
     {
       "id": "fancy",
@@ -27,7 +27,7 @@
       "version": "1.0.0",
       "category": "Personnalisé",
       "description": "Thème personnalisé créé pour l’événement Anniversaire Antonin.",
-      "thumbnail": "anniversaire_antonin/cover.png",
+      "thumbnail": "anniversaire_antonin/cover_v2.png",
       "package": "anniversaire_antonin/theme.pibouf",
       "customizable": false,
       "featured": false,
