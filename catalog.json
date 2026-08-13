@@ -37,17 +37,17 @@
         "personnalisé",
         "étoiles",
         "Antonin"
-      ]
+      ],
       "previews": [
   {
-    "image": "anniversaire_antonin/previews/preview_01.png",
+    "image": "anniversaire_antonin/previews/preview_1.png",
     "label": "Montage 1 photo"
   },
   {
-    "image": "anniversaire_antonin/previews/preview_02.png",
+    "image": "anniversaire_antonin/previews/preview_2.png",
     "label": "Montage 4 photos"
   }
-]
+],
     },
     {
       "id": "anniversaire_charles_ines",
