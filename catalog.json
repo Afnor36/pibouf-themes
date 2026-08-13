@@ -38,13 +38,16 @@
         "étoiles",
         "Antonin"
       ],
-      "previews": {
-  "wallpaper": "anniversaire_antonin/previews/wallpaper.png",
-  "qr_poster": "anniversaire_antonin/previews/qrcode_poster.png",
-  "templates": [
-    "anniversaire_antonin/previews/preview_1.png",
-    "anniversaire_antonin/previews/preview_2.png"
-  ]
+      {
+  "previews": {
+    "wallpaper": "anniversaire_antonin/previews/wallpaper.jpg",
+    "qr_poster": "anniversaire_antonin/previews/qrcode_poster.jpg",
+    "templates": [
+      "anniversaire_antonin/previews/preview_01.jpg",
+      "anniversaire_antonin/previews/preview_02.jpg"
+    ]
+  }
+}
 }
     },
     {
