@@ -38,16 +38,14 @@
         "étoiles",
         "Antonin"
       ],
-      "previews": [
-  {
-    "image": "anniversaire_antonin/previews/preview_1.png",
-    "label": "Montage 1 photo"
-  },
-  {
-    "image": "anniversaire_antonin/previews/preview_2.png",
-    "label": "Montage 4 photos"
-  }
-]
+      "previews": {
+  "wallpaper": "anniversaire_antonin/previews/wallpaper.png",
+  "qr_poster": "anniversaire_antonin/previews/qrcode_poster.png",
+  "templates": [
+    "anniversaire_antonin/previews/preview_1.png",
+    "anniversaire_antonin/previews/preview_2.png"
+  ]
+}
     },
     {
       "id": "anniversaire_charles_ines",
