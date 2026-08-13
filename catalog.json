@@ -1,4 +1,7 @@
-﻿{
+﻿catalog_corrige.json
+
+
+{
   "themes": [
     {
       "id": "fancy",
@@ -27,7 +30,7 @@
       "version": "1.0.0",
       "category": "Personnalisé",
       "description": "Thème personnalisé créé pour l’événement Anniversaire Antonin.",
-      "thumbnail": "anniversaire_antonin/cover_v2.png",
+      "thumbnail": "anniversaire_antonin/cover.png",
       "package": "anniversaire_antonin/theme.pibouf",
       "customizable": false,
       "featured": false,
@@ -38,17 +41,14 @@
         "étoiles",
         "Antonin"
       ],
-      {
-  "previews": {
-    "wallpaper": "anniversaire_antonin/previews/wallpaper.jpg",
-    "qr_poster": "anniversaire_antonin/previews/qrcode_poster.jpg",
-    "templates": [
-      "anniversaire_antonin/previews/preview_01.jpg",
-      "anniversaire_antonin/previews/preview_02.jpg"
-    ]
-  }
-}
-}
+      "previews": {
+        "wallpaper": "anniversaire_antonin/previews/wallpaper.jpg",
+        "qr_poster": "anniversaire_antonin/previews/qrcode_poster.jpg",
+        "templates": [
+          "anniversaire_antonin/previews/preview_01.jpg",
+          "anniversaire_antonin/previews/preview_02.jpg"
+        ]
+      }
     },
     {
       "id": "anniversaire_charles_ines",
