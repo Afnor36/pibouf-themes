@@ -66,7 +66,14 @@
         "wanted",
         "Charles",
         "Inès"
-      ]
+      ],
+      "previews": {
+        "wallpaper": "anniversaire_charles_ines/previews/wallpaper.jpg",
+        "templates": [
+          "anniversaire_charles_ines/previews/preview_01.jpg",
+          "anniversaire_charles_ines/previews/preview_02.jpg"
+        ]
+      }
     },
     {
       "id": "anniversaire_dorine",
