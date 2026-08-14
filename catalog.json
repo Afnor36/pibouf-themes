@@ -67,6 +67,33 @@
         "Charles",
         "Inès"
       ]
+    },
+    {
+      "id": "anniversaire_dorine",
+      "name": "Anniversaire Dorine",
+      "author": "Christophe DAL MASO",
+      "version": "1.0.0",
+      "category": "Personnalisé",
+      "description": "Thème personnalisé néon créé pour l’anniversaire de Dorine du 22 août 2026.",
+      "thumbnail": "anniversaire_dorine/cover.png",
+      "package": "anniversaire_dorine/theme.pibouf",
+      "customizable": false,
+      "featured": false,
+      "isNew": true,
+      "tags": [
+        "anniversaire",
+        "personnalisé",
+        "néon",
+        "Dorine"
+      ],
+      "previews": {
+        "wallpaper": "anniversaire_dorine/previews/wallpaper.jpg",
+        "qr_poster": "anniversaire_dorine/previews/qrcode_poster.jpg",
+        "templates": [
+          "anniversaire_dorine/previews/preview_01.jpg",
+          "anniversaire_dorine/previews/preview_02.jpg"
+        ]
+      }
     }
   ]
 }

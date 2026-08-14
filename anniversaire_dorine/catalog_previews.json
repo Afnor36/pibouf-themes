@@ -1,0 +1,10 @@
+{
+  "previews": {
+    "wallpaper": "anniversaire_dorine/previews/wallpaper.jpg",
+    "qr_poster": "anniversaire_dorine/previews/qrcode_poster.jpg",
+    "templates": [
+      "anniversaire_dorine/previews/preview_01.jpg",
+      "anniversaire_dorine/previews/preview_02.jpg"
+    ]
+  }
+}
