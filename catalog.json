@@ -78,13 +78,13 @@
     {
       "id": "anniversaire_dorine",
       "name": "Anniversaire Dorine",
-      "author": "Christophe DAL MASO",
+      "author": "PiBouf",
       "version": "1.0.0",
       "category": "Personnalisé",
-      "description": "Thème personnalisé néon créé pour l’anniversaire de Dorine du 22 août 2026.",
+      "description": "",
       "thumbnail": "anniversaire_dorine/cover.png",
       "package": "anniversaire_dorine/theme.pibouf",
-      "customizable": false,
+      "customizable": true,
       "featured": false,
       "isNew": true,
       "tags": [
