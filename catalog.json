@@ -91,6 +91,29 @@
           "anniversaire_dorine/previews/preview_02.jpg"
         ]
       }
+    },
+    {
+      "id": "essai_fred",
+      "name": "Fred LE DJ",
+      "author": "Fred MARGOT",
+      "version": "1.0.0",
+      "category": "Personnalisé",
+      "description": "Pour Fred",
+      "thumbnail": "essai_fred/cover.png",
+      "package": "essai_fred/theme.pibouf",
+      "customizable": false,
+      "featured": false,
+      "isNew": true,
+      "tags": [
+        "Personnalisé",
+        "Fred"
+      ],
+      "previews": {
+        "wallpaper": "essai_fred/previews/wallpaper.jpg",
+        "templates": [
+          "essai_fred/previews/preview_01.jpg"
+        ]
+      }
     }
   ]
 }
