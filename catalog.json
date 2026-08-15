@@ -11,16 +11,6 @@
       "package": "fancy/theme.pibouf"
     },
     {
-      "id": "peaky_blinders",
-      "name": "Peaky Blinders",
-      "author": "Christophe DAL MASO",
-      "version": "1.0.0",
-      "category": "Birthday",
-      "description": "Thème sombre et élégant inspiré de l'univers Peaky Blinders.",
-      "thumbnail": "peaky_blinders/cover.png",
-      "package": "peaky_blinders/theme.pibouf"
-    },
-    {
       "id": "anniversaire_antonin",
       "name": "Anniversaire Antonin",
       "author": "Christophe DAL MASO",
