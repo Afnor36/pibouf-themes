@@ -114,6 +114,30 @@
           "essai_fred/previews/preview_01.jpg"
         ]
       }
+    },
+    {
+      "id": "louna",
+      "name": "Louna",
+      "author": "Christophe DAL MASO",
+      "version": "1.0.0",
+      "category": "Anniversaire",
+      "description": "",
+      "thumbnail": "louna/cover.png",
+      "package": "louna/theme.pibouf",
+      "customizable": false,
+      "featured": false,
+      "isNew": true,
+      "tags": [
+        "Anniversaire",
+        "Louna"
+      ],
+      "previews": {
+        "wallpaper": "louna/previews/wallpaper.jpg",
+        "templates": [
+          "louna/previews/preview_01.jpg",
+          "louna/previews/preview_02.jpg"
+        ]
+      }
     }
   ]
 }
