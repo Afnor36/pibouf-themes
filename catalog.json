@@ -33,7 +33,9 @@
         "qr_poster": "anniversaire_antonin/previews/qrcode_poster.jpg",
         "templates": [
           "anniversaire_antonin/previews/preview_01.jpg",
-          "anniversaire_antonin/previews/preview_02.jpg"
+          "anniversaire_antonin/previews/preview_02.jpg",
+          "anniversaire_antonin/previews/preview_03.jpg",
+          "anniversaire_antonin/previews/preview_04.jpg"
         ]
       }
     },
